@@ -1,0 +1,238 @@
+
+.bodyorca {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    background-color: #ffcc00;
+}
+.bodyorcaroxo {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    background-color: #c9a9e8;
+}
+.bodyorcadesign {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    background-color: #deb200;
+}
+.dropdown-itemweb:hover {
+    background-color: #c9a9e8;
+   }
+   .dropdown-itemmark{
+     color: white;
+   }
+   .dropdown-itemmark:hover {
+     background-color: #deb200;
+     color: white;
+    }
+
+    .dropdown-itemdesign{
+        background-color: #ffcc00;
+     color: white;
+    }
+    .dropdown-itemdesign:hover{
+        color: white;
+        background-color: #deb200;
+    }
+
+
+.header {
+    font-weight: bolder;
+    color: white;
+    margin-left: 10%;
+}
+
+nav {
+    position: fixed;
+}
+
+
+.hr-lines {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    color: white;
+    line-height: 1.8em;
+    position: relative;
+    
+}
+
+.description {
+    left: 70px;
+}
+
+.subtitle {
+    margin-left: 10%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    color: white;
+}
+
+.card {
+    display: inline-block;
+    width: 19rem;
+    height: 22.5rem;
+    margin-right: 10%;
+    border-radius: 7px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.delete {
+    color: #7E7E7E
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.btnPacks {
+    position: relative;
+    margin-left: 33%;
+    border: solid 2px #ffcc00;
+    color: #ffcc00;
+    background-color: white;
+    border-radius: 3px;
+}
+
+.btnPacks:hover {
+    background-color: #DEB200;
+    border: solid 2px #DEB200;
+    color: white;
+    border-radius: 3px;
+}
+
+.packs {
+    margin-left: 10%;
+}
+
+.service {
+    width: 100%;
+    margin-top: 3%;
+    background-color: white;
+}
+
+.serviceText {
+    color: #6A6A6A;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.serviceUndertext {
+    font-family: Poppins;
+    font-size: 1em;
+}
+
+.banners {
+    width: 100%;
+}
+
+
+.row {
+    display: inline-block;
+}
+
+.card-img-top {
+    display: inline-block;
+    margin-top: 5%;
+    height: fit-content;
+    width: 80%;
+}
+
+.serviceBanners {
+    float: right;
+    width: 19rem;
+    height: 20rem;
+    margin-right: 10%;
+    border-radius: 7px;
+}
+
+.formsTitle {
+    font-weight: bolder;
+    color: white;
+    margin-left: 10%;
+}
+
+.btnSubmit {
+    display: inline-block;
+    position: relative;
+    margin-left: 45%;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    width: 7rem;
+}
+
+.btnSubmit:hover {
+    color: #c9a9e8;
+}
+
+.btnClean {
+    display: inline-block;
+    position: relative;
+    margin-left: 2%;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    width: 7rem;
+}
+
+.btnClean:hover {
+    border: none;
+    color: #c9a9e8;
+    background-color: #a46ea4;
+    border-radius: 3px;
+}
+
+.btnForms {
+    width: 100%;
+    height: 4rem;
+    display: inline-block;
+}
+
+.form-group {
+    margin-left: 10%
+}
+
+
+
+input {
+    position: relative;
+    border-radius: 3px;
+}
+
+input[type=file] {
+    color: transparent;
+}
+
+.btnAddFile {
+    border: solid 2px #ffcc00;
+}
+
+.container11{
+    margin-bottom: 10%;
+}
+
+.container1 {
+    display: flex;
+    width: 40%;
+    margin-left: 10%;
+}
+
+.container2 {
+    display: inline-block;
+    width: 40%;
+    margin-left: 5%;
+}
+
+.chb{
+    position: relative;
+    margin-left: 80%;
+}
+.labeltitle{
+    position: relative;
+    font-weight: 600;
+     margin-left: 42%;
+}
+
+
